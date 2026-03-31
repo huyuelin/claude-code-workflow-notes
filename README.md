@@ -1,4 +1,14 @@
+<div align="center">
+
+<img src="social-preview.png" alt="Claude Code Workflow Notes" width="800">
+
 # Claude Code Workflow & Internals Research
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Research-00BFFF)](https://claude.ai/code)
+[![Boss Mode](https://img.shields.io/badge/Boss%20Mode-Companion-FF6B35)](https://github.com/huyuelin/claude-code-boss-mode)
+
+</div>
 
 > **Official Position**: This repository is public analysis of Claude Code's documented architecture patterns, NOT based on leaked source code. All observations are from public repositories, official documentation, and reverse-engineering through official interfaces.
 
