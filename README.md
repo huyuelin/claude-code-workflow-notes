@@ -23,6 +23,11 @@ This is a research notebook on how Claude Code orchestrates multi-agent workflow
 5. [Multi-Agent Workflow Patterns](#multi-agent-workflow-patterns)
 6. [Boss Mode Integration Points](#boss-mode-integration-points)
 
+<div align="center">
+<img src="assets/architecture-blueprint.png" alt="Claude Code Architecture Blueprint" width="700">
+<p><em>Claude Code's layered architecture: from CLI entrypoint to multi-agent orchestration</em></p>
+</div>
+
 ---
 
 ## Claude Code Architecture Overview
@@ -233,6 +238,11 @@ boss-pr ← evaluates a specific PR change
 ```
 
 ---
+
+<div align="center">
+<img src="assets/multi-agent-workflow.png" alt="Multi-Agent Workflow Orchestration" width="700">
+<p><em>How Claude Code coordinates parallel agents, merges results, and manages shared state</em></p>
+</div>
 
 ## Multi-Agent Workflow Patterns
 
